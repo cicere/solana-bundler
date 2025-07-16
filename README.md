@@ -6,7 +6,7 @@ NOTE: This is an older-version of my Bundler, if you got any questions, **DM me 
 
 **Updated to work for both CPMM + OpenBook as of 15.07.2025**
 
-**discord.gg/solana-scripts**
+**[discord.gg/solana-scripts](https://discord.gg/solana-scripts)**
 
 
 Join our community above to stay up to date!
