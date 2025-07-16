@@ -9,7 +9,7 @@ NOTE: This is an older-version of my Bundler, if you got any questions, **DM me 
 **discord.gg/solana-scripts**
 
 
-https://github.com/user-attachments/assets/8d89238b-7e08-433b-86a6-7069ded8be7e
+Join our community above to stay up to date!
 
 
 
