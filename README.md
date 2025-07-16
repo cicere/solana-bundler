@@ -4,8 +4,9 @@ Welcome to the Solana Bundler, an open-source script designed to facilitate buyi
 
 NOTE: This is an older-version of my Bundler, if you got any questions, **DM me at t.me/benorizz0**
 
-## Updated to work for both CPMM + OpenBook as of 15.07.2025
-## discord.gg/solana-scripts
+**Updated to work for both CPMM + OpenBook as of 15.07.2025**
+
+**discord.gg/solana-scripts**
 
 
 https://github.com/user-attachments/assets/8d89238b-7e08-433b-86a6-7069ded8be7e
